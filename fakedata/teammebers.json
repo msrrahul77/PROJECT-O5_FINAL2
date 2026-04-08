@@ -1,0 +1,48 @@
+{
+    "section": {
+        "title": "Team Member",
+        "description": "Meet our professional team dedicated to delivering excellence.",
+        "members": [
+            {
+                "id": 1,
+                "name": "Emily Carter",
+                "position": "Marketing Director",
+                "bio": "Emily leads the marketing team with over 8 years of experience in digital campaigns and brand strategy. She specializes in data-driven growth and customer engagement.",
+                "email": "emily.carter@company.com",
+                "phone": "+1-555-123-4567",
+                "linkedin": "https://linkedin.com/in/emily-carter",
+                "image": "team1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Daniel Rahman",
+                "position": "Senior Business Analyst",
+                "bio": "Daniel focuses on transforming complex data into actionable insights. He has a strong background in finance, analytics, and strategic planning.",
+                "email": "daniel.rahman@company.com",
+                "phone": "+1-555-234-5678",
+                "linkedin": "https://linkedin.com/in/daniel-rahman",
+                "image": "team2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Jason Miller",
+                "position": "Product Manager",
+                "bio": "Jason oversees product development from concept to launch. He is passionate about building user-centric solutions and improving product performance.",
+                "email": "jason.miller@company.com",
+                "phone": "+1-555-345-6789",
+                "linkedin": "https://linkedin.com/in/jason-miller",
+                "image": "team3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Sophia Bennett",
+                "position": "Human Resources Manager",
+                "bio": "Sophia manages recruitment, employee relations, and company culture initiatives. She is dedicated to creating a positive and productive workplace.",
+                "email": "sophia.bennett@company.com",
+                "phone": "+1-555-456-7890",
+                "linkedin": "https://linkedin.com/in/sophia-bennett",
+                "image": "team4.jpg"
+            }
+        ]
+    }
+}

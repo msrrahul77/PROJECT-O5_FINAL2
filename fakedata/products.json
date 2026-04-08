@@ -1,0 +1,62 @@
+{
+    "section": {
+        "title": "Product Price",
+        "description": "Flexible pricing plans designed to suit your business needs.",
+        "plans": [
+            {
+                "id": 1,
+                "name": "Web Design",
+                "price": 1000,
+                "billing": "per website",
+                "features": [
+                    "Responsive Design",
+                    "Basic Features",
+                    "Community Support",
+                    "SEO Optimize",
+                    "Premium Support",
+                    "Hosting Provide"
+                ],
+                "cta": {
+                    "label": "Order Now",
+                    "link": "/order/web-design"
+                }
+            },
+            {
+                "id": 2,
+                "name": "App Development",
+                "price": 2000,
+                "billing": "per app",
+                "features": [
+                    "Responsive Design",
+                    "Basic Features",
+                    "Community Support",
+                    "SEO Optimize",
+                    "Premium Support",
+                    "Hosting Provide"
+                ],
+                "cta": {
+                    "label": "Order Now",
+                    "link": "/order/app-development"
+                }
+            },
+            {
+                "id": 3,
+                "name": "ERP Solution",
+                "price": 4000,
+                "billing": "per module",
+                "features": [
+                    "Responsive Design",
+                    "Basic Features",
+                    "Community Support",
+                    "SEO Optimize",
+                    "Premium Support",
+                    "Hosting Provide"
+                ],
+                "cta": {
+                    "label": "Order Now",
+                    "link": "/order/erp-solution"
+                }
+            }
+        ]
+    }
+}
